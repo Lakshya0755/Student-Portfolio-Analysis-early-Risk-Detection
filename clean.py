@@ -1,13 +1,4 @@
 import pandas as pd
-"""dp= pd.DataFrame({
-    "name":["aa","bb","cc"],
-    "age":[12,23,45],
-    "no":[11,22,33]
-}
-)
-print(dp)"""
-
-
 df= pd.read_csv("student_dataset.csv")
 #print(df.head(5))
 
