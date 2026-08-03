@@ -13,8 +13,10 @@ print(dp)"""
 
 # ----------------------------------------
 # STEP 1: DATA LOAD KARNA
+st.subheader("Please enter your apropiate file for Analysis: ")
+File =st.text_input("File Path/Name:")
 # ----------------------------------------
-df = pd.read_csv("dataset\student_dataset.csv")
+df= pd.read_csv(File)
 
 # ----------------------------------------
 # STEP 2: DATA CLEANING
