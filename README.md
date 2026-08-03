@@ -30,9 +30,3 @@ Each student gets a weighted score based on:
 - ML-based prediction model
 - Mobile application
 
-## 👥 Team
-- Lakshya Goel (2303330100071)
-- Shagun Tyagi (2303330100119)
-
-## 👩‍🏫 Mentor
-Ms. Deepa Solanki — Assistant Professor, CSE, RKGITM
