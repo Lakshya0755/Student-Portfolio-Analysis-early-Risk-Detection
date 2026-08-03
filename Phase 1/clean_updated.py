@@ -13,7 +13,7 @@ print(dp)"""
 
 # ----------------------------------------
 # STEP 1: DATA LOAD KARNA
-st.subheader("Please enter your apropiate file for Analysis: ")
+st.subheader("Please enter your appropiate file for Analysis: ")
 File =st.text_input("File Path/Name:")
 # ----------------------------------------
 df= pd.read_csv(File)
